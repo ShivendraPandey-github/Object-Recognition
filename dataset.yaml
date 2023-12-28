@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/Yolo_Face_Recognition/dataset/images/train
+val: /content/drive/MyDrive/Yolo_Face_Recognition/dataset/images/validation
+
+nc: 1
+names: ['pothole']
